@@ -30,6 +30,7 @@ To make the game entirely English, the following changes have been made:
   - Matchup screens
   - Ending staff roll
   - Save warning screens
+- Translated opening movie
 - Translated pre-match character dialogue
 - Translated character profiles
 - Translated Illustration Gallery notes
