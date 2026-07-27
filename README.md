@@ -106,7 +106,7 @@ The patch is shipped as an XDelta patch.
 7. If successful, Track 01 will be replaced with the patched track.
 
 **--> Important! <--**
-- Tested with release <kbd>Cyber Doll (Japan).zip</kbd>
+- Tested with release <kbd>Cyber Doll (Japan)</kbd>
 - Test in Ymir, Kronos, and Mednafen emulators, and on real hardware with Satiator.
 
 ## Helpful Game Tips ##
