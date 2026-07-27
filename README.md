@@ -35,7 +35,7 @@ To make the game entirely English, the following changes have been made:
 - Translated character profiles
 - Translated Illustration Gallery notes
 - Translated character endings
-- Minor fixes like making "Test-kun's" in-fight name match all other instances
+- Minor fixes like making "Test-kun's" in-fight spelling match all other instances
 
 
 ## **Screenshots**
