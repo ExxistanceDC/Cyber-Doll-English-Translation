@@ -23,19 +23,11 @@ All of the game's personality can now be experienced by English audiences thanks
 
 To make the game entirely English, the following changes have been made:
 
-- Newly redrawn English textures for:
-  - Title Screen
-  - Options menu and submenus
-  - Character select screens
-  - Matchup screens
-  - Ending staff roll
-  - Save warning screens
-- Translated opening movie
-- Translated pre-match character dialogue
-- Translated character profiles
-- Translated Illustration Gallery notes
-- Translated character endings
-- Minor fixes like making "Test-kun's" in-fight spelling match all other instances
+- Full game dialogue translation and implementation of single byte encoding with new monospaced font
+- Translation of UI elements
+- Localized title screen (removal of Japanese)
+- Translated save warning screens
+
 
 
 ## **Screenshots**
