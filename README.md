@@ -27,7 +27,7 @@ But wait, we're not done yet...
 
 Now, a new, NEW disease theatens mankind... Dark Visitor! Yet another plague! Sheesh, humanity really can't catch a break... 
 
-<hr>
+## 
 ...And that's your introduction to Cyber Doll, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional RPG hallmarks, like overworld traversal, NPCs, and shops, but with a slick cyberpunk aesthetic and a unique battle system.
 
 
