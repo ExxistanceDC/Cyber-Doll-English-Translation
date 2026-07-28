@@ -33,7 +33,7 @@ Now, a new, NEW disease theatens mankind... Dark Visitor! Yet another deadly dis
 
 Once again, we have translator extraordinaire **wiredcrackpot** to thank for volunteering to translate the game.
 
-To make game playable entirely in English, the following changes have been implemented:
+To make the game entirely playable in English, the following changes have been implemented:
 
 - Full game dialogue translation alongside implementation of single byte encoding with new 8 x 16 monospaced font
 - Translated UI elements
