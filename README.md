@@ -17,15 +17,16 @@ An English translation patch for the Sega Saturn Japanese-exclusive cyberpunk RP
 
 ## **Overview**
 
-Astra came out very late in the Saturn's life in Japan, nearly on the verge of the release of the Dreamcast. It's a fun, hectic airborne fighting game that feels a bit like Marvel vs. Capcom mixed with the DNA of the other Sunset fighters like Waku Waku 7. From a technical perspective, the game supports 4 MB and 1 MB RAM cart modes for increased animation and loading times. 
+Saturn was graced with relatively few traditional RPGs, and what's not to like with Cyber Doll: a slick cyberpunk aesthetic, traditional RPG overworld traversal, and a unique battle system.
 
-All of the game's personality can now be experienced by English audiences thanks to the translating talents of **wiredcrackpot**. 
+Once again, we have translator extraodinaire **wiredcrackpot** to thank for volunteering to translate the game.
 
-To make the game entirely English, the following changes have been made:
+To make game playable entirely in English, the following changes have been implemented:
 
-- Full game dialogue translation and implementation of single byte encoding with new monospaced font
-- Translation of UI elements
-- Localized title screen (removal of Japanese)
+- Full game dialogue translation alongside implementation of single byte encoding with new 8 x 16 monospaced font
+- Translated UI elements
+- Modified name entry scream to support English alphabet
+- Localized title screen (removal of Japanese text)
 - Translated save warning screens
 
 
