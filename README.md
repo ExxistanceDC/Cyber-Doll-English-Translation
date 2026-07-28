@@ -1,4 +1,4 @@
-<div align="center"><img width="600" alt="Astra_Splash_Cover"  /></div>
+ <div align="center"><img width="600" alt="Astra_Splash_Cover"  /></div>
 
 # Cyber Doll English Translation
 
@@ -28,7 +28,7 @@ But wait, we're not done yet...
 Now, a new, NEW disease theatens mankind... Dark Visitor! Yet another plague! Sheesh, humanity really can't catch a break... 
 
 <hr>
-...And that's your introduction to Cyber Doll, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional PRG hallmarks, like overworld traversal, NPCs, and shops, but with a slick cyberpunk aesthetic and a unique battle system.
+...And that's your introduction to Cyber Doll, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional RPG hallmarks, like overworld traversal, NPCs, and shops, but with a slick cyberpunk aesthetic and a unique battle system.
 
 Once again, we have translator extraodinaire **wiredcrackpot** to thank for volunteering to translate the game.
 
