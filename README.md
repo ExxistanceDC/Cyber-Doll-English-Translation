@@ -30,6 +30,7 @@ Now, a new, NEW disease theatens mankind... Dark Visitor! Yet another plague! Sh
 <hr>
 ...And that's your introduction to Cyber Doll, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional RPG hallmarks, like overworld traversal, NPCs, and shops, but with a slick cyberpunk aesthetic and a unique battle system.
 
+
 Once again, we have translator extraodinaire **wiredcrackpot** to thank for volunteering to translate the game.
 
 To make game playable entirely in English, the following changes have been implemented:
