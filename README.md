@@ -17,7 +17,18 @@ An English translation patch for the Sega Saturn Japanese-exclusive cyberpunk RP
 
 ## **Overview**
 
-Saturn was graced with relatively few traditional RPGs, and what's not to like with Cyber Doll: a slick cyberpunk aesthetic, traditional RPG overworld traversal, and a unique battle system.
+The year is 2039. Humanity has defeated **AIDS**.
+
+You would think that would be cause for celebration... but fate had other plans in mind.
+
+A new catestrophe arose... M.L.D. aka Muscular-Loosening Disease! But thankfully, scientists defeated that one, too. (although it had the side effect of making people immortal...which appatently is a problem?)
+
+But wait, we're not done yet... 
+
+Now, a new, NEW disease theatens mankind... Dark Visitor! Yet another plague! Sheesh, humanity really can't catch a break... 
+
+<hr>
+And that's your introduction to Cyber Doll, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional PRG hallmarks, like overworld traversal, NPCs, and shops, but with a slick cyberpunk aesthetic and a unique battle system.
 
 Once again, we have translator extraodinaire **wiredcrackpot** to thank for volunteering to translate the game.
 
