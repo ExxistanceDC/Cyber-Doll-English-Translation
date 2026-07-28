@@ -21,7 +21,7 @@ The year is 2039. Humanity has defeated **AIDS**.
 
 You would think that would be cause for celebration... but fate had other plans in mind.
 
-A new catestrophe arose... M.L.D. aka Muscular-Loosening Disease! But thankfully, scientists defeated that one, too. (although it had the side effect of making people immortal...which appatently is a problem?)
+A new catastrophe arose... M.L.D. aka Muscular-Loosening Disease. But thankfully, scientists defeated that one, too. (although it had the side effect of making people immortal...which apparently is a problem?)
 
 But wait, we're not done yet... 
 
