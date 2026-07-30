@@ -17,15 +17,15 @@ An English translation patch for the Sega Saturn Japanese-exclusive cyberpunk RP
 
 ## **Overview**
 
-The year is 2039. Humanity has defeated **AIDS**.
+The year is 1999. Humanity has defeated **AIDS**.
 
 You would think that would be cause for celebration... but fate had other plans in mind.
 
-A new catastrophe arose... M.L.D. aka Muscular-Loosening Disease. Thankfully, scientists defeated that one as well (although it had the side effect of making people immortal... which apparently is a problem?)
+A new catastrophe arose... M.L.D. aka Muscular Loosening Disease. Thankfully, scientists defeated that one, too. (Although it had the side effect of making people immortal... which apparently is a problem?)
 
 But wait, we're not done yet... 
 
-Now, a new, NEW disease theatens mankind... Dark Visitor! Yet another deadly disease! Sheesh, humanity really can't catch a break here... 
+Year: 2039. Now, a new, _NEW_ mankind faces in a new threat... Dark Visitor! Yet another deadly disease! Sheesh, humanity really can't catch a break here... 
 
 ## 
 ...And that's your introduction to Cyber Doll, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional 2D RPG hallmarks, like overworld traversal, NPCs, and shops, but with a slick cyberpunk aesthetic and a unique battle system.
@@ -117,9 +117,7 @@ The patch is shipped as an XDelta patch.
 
 ## Helpful Game Tips ##
 
-- The game fully utilizes the Saturn RAM carts. In terms of order of best experience, you can think of it like 4 MB RAM > 1 MB RAM > no cart. 
-- As usual, the <a href='https://segaretro.org/Astra_Superstars'>Sega Retro page</a> for this game is fantastic. I highly recommend you take a look at it to understand the game's mechanics.
-- Wikipedia states that "Depending on what is said, the player can encounter the Devil (based on bad judgment of character) or the Angel (based on good judgement of character) to fight before the final boss" but I don't think this is true based on what I extracted from the game's files. MyAngel is **only** encountered when you play with the character Fooly. All other characters face up against MyDevil.
+- The game has a robust debug mode where you can play with the battle mode, listen to music tracks, view all story strings, and more. Access it by holding **X + Y + Z** and pressing **Start** during the I'MAX logo.
 
 
 
@@ -135,7 +133,9 @@ The patch is shipped as an XDelta patch.
 - Exxistance
 
 **Special Thanks**
-- Sega-Extreme (whose 31st Annual Homebrew competition inspired me to return to my previous menu-only patch)
+- <a href='https://32bits.substack.com/'>Bo Bayles</a> (whose cracking of the game's custom text encoding really unlocked this translation)
+- Malenko (who also posted some helpful insight/clues about this game)
+- Majuular (whose great video <a href="https://youtu.be/_900EwYcZ5s?si=vR8M6J4y93m9hyZp">"The Weird World of Saturn RPGs"</a> introduced me to this game 
 
 ## **Release Changelog**
 
