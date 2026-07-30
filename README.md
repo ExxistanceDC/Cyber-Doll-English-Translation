@@ -39,6 +39,7 @@ To make the game entirely playable in English, the following changes have been i
 - Translated UI elements
 - Modified name entry scream to support English alphabet
 - Localized title screen (removal of Japanese text)
+- Removal of JP subs in the intro video
 - Translated save warning screens
 
 
