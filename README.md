@@ -1,4 +1,4 @@
- <div align="center"><img width="600" alt="Astra_Splash_Cover"  /></div>
+ <div align="center"><img width="600" alt="Splash_Cover"  /></div>
 
 # Cyber Doll English Translation
 
