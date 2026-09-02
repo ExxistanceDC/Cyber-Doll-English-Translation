@@ -142,7 +142,7 @@ The patch is shipped as an XDelta patch.
 
 ## **Reporting Issues**
 
-While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by [submitting a new issue](xxxxxxxxxxxxxx) to this repo. 
+If you find an issue, be it a text overrun, a crash, or a freeze, please [submit a new issue here](https://github.com/ExxistanceDC/Cyber-Doll-English-Translation/issues/new). The game has been thoroughly tested, but the universe loves a good joke and all that...
 
 ## **Release Changelog**
 
