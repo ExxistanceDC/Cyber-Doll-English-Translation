@@ -11,6 +11,7 @@ An English translation patch for the Sega Saturn Japanese-exclusive cyberpunk RP
 1. [Patching Instructions](#Patching-Instructions)
 1. [Helpful Game Tips](#Helpful-Game-Tips)
 1. [Credits & Special Thanks](#Credits)
+1. [Reporting Issues](#Reporting-Issues)
 1. [Release Changelog](#Release-Changelog)
 
 
@@ -120,9 +121,7 @@ The patch is shipped as an XDelta patch.
 
 - The game has a robust debug mode where you can play with the battle mode, listen to music tracks, view all story strings, and more. Access it by holding **X + Y + Z** and pressing **Start** during the I'MAX logo.
 
-## **Reporting Issues**
 
-While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by [submitting a new issue](xxxxxxxxxxxxxx) to this repo. 
 
 ## **Credits**
 
@@ -140,6 +139,10 @@ While the patch has been thoroughly tested for months and months, the universe l
 - Malenko (who also posted some helpful insight/clues about this game)
 - Majuular (whose great video <a href="https://youtu.be/_900EwYcZ5s?si=vR8M6J4y93m9hyZp">"The Weird World of Saturn RPGs"</a> introduced me to this game)
 - Whoever it was on the dev team that came up with the awesome debug mode that allowed me to verify all 1,800+ strings easily. MVP! 
+
+## **Reporting Issues**
+
+While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by [submitting a new issue](xxxxxxxxxxxxxx) to this repo. 
 
 ## **Release Changelog**
 
