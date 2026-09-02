@@ -120,7 +120,9 @@ The patch is shipped as an XDelta patch.
 
 - The game has a robust debug mode where you can play with the battle mode, listen to music tracks, view all story strings, and more. Access it by holding **X + Y + Z** and pressing **Start** during the I'MAX logo.
 
+## **Reporting Issues**
 
+While the patch has been thoroughly tested for months and months, the universe loves a good joke, and stuff always gets through. Please report typos, mispellings, text overruns, and the like by [submitting a new issue](xxxxxxxxxxxxxx) to this repo. 
 
 ## **Credits**
 
