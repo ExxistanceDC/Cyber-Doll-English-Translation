@@ -48,27 +48,27 @@ To make the game entirely playable in English, the following changes have been i
 ## **Screenshots**
 
 <!-- Row 1 -->
-<p>
-  <img width="500" alt="Choose_Professional" src="https://github.com/user-attachments/assets/a9b90e04-88f5-4aea-8b7d-22233bbed9fe" />
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/264b8373-07ea-443f-b96e-50940e9ae651" />
-</p>
-
-<!-- Row 2 -->
-<p>
-  <img width="500" alt="Choose_Professional" src="https://github.com/user-attachments/assets/1d7b32d9-c80d-4b94-bc78-8f9f3ece2e65" />
-  <img width="500" alt="Gameplay_screenshot" src="https://github.com/user-attachments/assets/2ab17fe0-1d9f-4c31-aedd-f5e80cca1e8d" />    
+<p> 
+ <img width="500" src="https://github.com/user-attachments/assets/afca9145-d597-4981-98e3-333ee6e6f95c" />
+ <img width="500" src="https://github.com/user-attachments/assets/1fc83b99-a845-4c86-841e-830b8bc80df2" />
 </p>
 
 <!-- Row 3 -->
 <p>
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/c09c36dd-bc4f-42ea-bd08-df76f5ae6e9c" />
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/11b8c1f2-5e0a-44cc-b73c-cf0f13a4ca13" />
+ <img width="500" src="https://github.com/user-attachments/assets/7aeba4cb-1959-423b-adfd-3faca7ab42a7" />
+ <img width="500" src="https://github.com/user-attachments/assets/c333dc33-652b-49f7-a64b-70c0a62f0db7" />
+
+</p>
+<!-- Row 3 -->
+<p>
+ <img width="500" src="https://github.com/user-attachments/assets/f9b6197e-ebbd-4855-949c-f8649ab96245" /> 
+ <img width="500" src="https://github.com/user-attachments/assets/6b608dce-25f8-4f84-964e-a4106fe834aa" />
 </p>
 
 <!-- Row 4 -->
 <p>
-  <img width="500" alt="Choose_Professional" src="https://github.com/user-attachments/assets/2a344806-8b94-4c5d-b522-e24449898ae2" />
-  <img width="500" alt="Title Screen" src="https://github.com/user-attachments/assets/1a36b523-fa46-4b9d-8038-28ddc5b107d4" />    
+ <img width="500" src="https://github.com/user-attachments/assets/932fe719-b650-47a3-9533-0f631f7601cb" />
+ <img width="500" src="https://github.com/user-attachments/assets/92bf8ef4-af53-4b91-91e2-979ee00bc1e3" />   
 </p>
 
 ## **About the Game**
