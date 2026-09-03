@@ -35,7 +35,7 @@ But wait, we're not done yet...
 Year: 2039. Now, mankind faces a new, _NEW_ threat... Dark Visitor! Yet another deadly disease! Sheesh, humanity really can't catch a break here... 
 
 ## 
-...And that's your introduction to _Cyber Doll_, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional 2D RPG hallmarks, like overworld traversal, NPCs, and shops, but with a slick cyberpunk aesthetic and a unique battle system.
+...And that's your introduction to _Cyber Doll_, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional 2D RPG hallmarks, like turn-based battles, towns, NPCs, shops, etc, but with a slick cyberpunk aesthetic and a unique battle system.
 
 
 Once again, we have translator extraordinaire **wiredcrackpot** to thank for volunteering to translate the game.
@@ -44,12 +44,10 @@ To make the game entirely playable in English, the following changes have been i
 
 - Full game dialogue translation alongside implementation of single byte encoding with new 8 x 16 monospaced font
 - Translated UI elements
-- Modified name entry screen to default to English entry
+- Modified name entry screen to default to English alphabet entry
 - Localized title screen (removal of Japanese text)
 - Removal of JP subs in the intro video
-- Translated save warning screens
-
-
+- Translated "save warning" screens
 
 ## **Screenshots**
 
