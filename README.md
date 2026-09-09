@@ -137,10 +137,12 @@ The patch is shipped as an XDelta patch.
 
 **QA**
 - Exxistance
+- Double Dime
 
 **Special Thanks**
 - <a href='https://32bits.substack.com/'>Bo Bayles</a> (whose cracking of the game's custom text encoding really unlocked this translation)
 - Malenko (who also posted some helpful insight/clues about this game)
+- Double Dime (who truly went above and beyond in helping test this patch. Thank you!!)
 - Majuular (whose great video <a href="https://youtu.be/_900EwYcZ5s?si=vR8M6J4y93m9hyZp">"The Weird World of Saturn RPGs"</a> introduced me to this game)
 - Whoever it was on the dev team that came up with the awesome debug mode that allowed me to verify all 1,800+ strings easily. MVP! 
 
