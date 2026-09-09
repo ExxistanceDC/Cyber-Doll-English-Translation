@@ -119,11 +119,11 @@ The patch is shipped as an XDelta patch.
 
 **--> Important! <--**
 - Tested with release <kbd>Cyber Doll (Japan)</kbd>
-- Test in Ymir, Kronos, and Mednafen emulators, and on real hardware with Satiator.
+- Tested in Ymir, Kronos, and Mednafen emulators, and on real hardware with Satiator.
 
 ## Helpful Game Tips ##
 
-- The game has a robust debug mode where you can play with the battle mode, listen to music tracks, view all story strings, and more. Access it by holding **X + Y + Z** and pressing **Start** during the I'MAX logo.
+- The game has a robust debug mode where you can play with the battle mode, listen to music tracks, view all story strings, and more. Access it by holding **X + Y + Z** and pressing **Start** when the I'MAX logo plays.
 
 
 
