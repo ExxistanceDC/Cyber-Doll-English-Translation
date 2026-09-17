@@ -35,7 +35,7 @@ But wait, we're not done yet...
 Year: 2039. Now, mankind faces a new, _NEW_ threat... Dark Visitor! Yet another deadly disease! Sheesh, humanity really can't catch a break here... 
 
 ## 
-...And that's your introduction to _Cyber Doll_, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional 2D RPG hallmarks, like turn-based battles, towns, NPCs, shops, etc, but with a slick cyberpunk aesthetic and a unique battle system.
+...And that's your introduction to _Cyber Doll_, one of the relatively few traditional RPGs that the Saturn was graced with. It has many of those traditional 2D RPG hallmarks, like turn-based battles, towns, NPCs, shops, etc., but with a slick cyberpunk aesthetic and a unique battle system.
 
 
 Once again, we have translator extraordinaire **wiredcrackpot** to thank for volunteering to translate the game.
@@ -153,7 +153,7 @@ If you find an issue, be it a text overrun, a crash, or a freeze, please [submit
 
 ## **Release Changelog**
 
-- **Version 1.0. (xxxxx/2026)**
+- **Version 1.0. (9/17/2026)**
   - Initial release
 
 
