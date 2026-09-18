@@ -49,6 +49,7 @@ To make the game entirely playable in English, the following changes have been i
 - Removal of JP subs in the intro video
 - Translated "save warning" screens
 - Translated debug menus
+- Minor spelling cleanup on a few sprites ("Disorber" -> Disorder, "Maintnance" -> Maintenance)
 
 ## **Screenshots**
 
