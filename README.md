@@ -153,7 +153,7 @@ If you find an issue, be it a text overrun, a crash, or a freeze, please [submit
 
 ## **Release Changelog**
 
-- **Version 1.0. (9/17/2026)**
+- **Version 1.0 (9/17/2026)**
   - Initial release
 
 
