@@ -146,6 +146,7 @@ The patch is shipped as an XDelta patch.
 - Malenko (who also posted some helpful insight/clues about this game)
 - Double Dime (who truly went above and beyond in helping test this patch. Thank you!!)
 - Majuular (whose great video <a href="https://youtu.be/_900EwYcZ5s?si=vR8M6J4y93m9hyZp">"The Weird World of Saturn RPGs"</a> introduced me to this game)
+- YouTube channel 21stNimrods (whose <a href="https://youtu.be/m4DHeYytx7w">playthrough of the entire game</a> was invaluable for testing and getting context throughout patch development)
 - Whoever it was on the dev team that came up with the awesome debug mode that allowed me to verify all 1,800+ strings easily. MVP! 
 
 ## **Reporting Issues**
