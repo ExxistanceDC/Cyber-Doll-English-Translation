@@ -155,6 +155,12 @@ If you find an issue, be it a text overrun, a crash, or a freeze, please [submit
 
 ## **Release Changelog**
 
+- **Version 1.0.1 (9/20/2026)**
+  - Minor translation corrections to prevent player confusion, including:
+    - Repair Pit prompt incorrectly mentions that the player would receive money, rather than cost money
+    - A shopkeep stated a discount percentage rather than the discount amount
+    - SPASJAN Special weapon indicated Type B ammo rather than Type A
+
 - **Version 1.0 (9/18/2026)**
   - Initial release
 
