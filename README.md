@@ -155,6 +155,9 @@ If you find an issue, be it a text overrun, a crash, or a freeze, please [submit
 
 ## **Release Changelog**
 
+- **Version 1.0.2 (10/26/2026)**
+  - Fixes issue with "Terror Claw" weapon appearing untranslated in the combat menu.
+
 - **Version 1.0.1 (9/20/2026)**
   - Minor translation corrections to prevent player confusion, including:
     - Repair Pit prompt incorrectly mentions that the player would receive money, rather than cost money
